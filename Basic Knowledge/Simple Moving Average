@@ -1,0 +1,9 @@
+# Popular Indicator 
+
+## Simple Moving Average (SMA)
+
+takes the average multiple price points over time to create a single trend line.
+Ex. 12-day SMA takes daily price points (closing price on each day) and use them to get an overall average. 
+
++ Help to identify direction of a price trend without interference from short-term price fluctuations. 
+
